@@ -9,6 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
+      - href: rome-periodization.qmd
 
 format:
   html:

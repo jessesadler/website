@@ -1,0 +1,64 @@
+---
+title: "Roman periodization"
+---
+
+This is another webpage
+
+- Foundation, 753 BCE
+- Monarchy, 753–509 BCE
+- Republic, 509–30 BCE
+	- Early Republic, 509–265 BCE
+		- Treaty with Carthage, 507
+		- Recognition of tribunes as representatives of plebeians, 494
+		- Twelve Tables, 451
+		- Capture of Veii, 396
+		- Celtic invasion of Rome, 390
+		- Licinian-Sextian laws – wealthy plebeians admitted to magistracy, 367
+		- Last Latin War, 338
+		- Lex Hortensia – end of struggle of orders, 287
+		- Pyrrhic War, 281–270
+	- Middle Republic, 264–133 BCE
+		- First Punic War, 264–241
+		- Second Punic War, 218–201
+		- Macedonian wars, 200–197
+		- Defeat of Macedonia, 171–168
+		- Conquest of Spain, 197–178, 154–133
+		- Third Punic War, 149–146
+		- Destruction of Corinth, 146
+		- Kingdom of Pergamum bequeathed to Rome, 133
+	- Late Republic, 133–30 BCE
+		- Gracchan reforms, 133–121
+			- Tiberius Gracchus, tribune of the plebs, 133
+			- Gaius Gracchus, tribune of the plebs, 123–121
+		- Conquest of southern France, 125–121
+		- Military reforms of Marius, 107–100
+		- Social War, 91–88
+		- First Civil War – Marius vs Sulla, 88–82 BCE
+		- Dictatorship of Sulla, 82–79
+		- Spartacus's slave revolt, 73–71
+		- Caesar's conquests of Gaul, 58–50
+		- Second Civil War – Pompey vs Caesar, 49–45 BCE
+		- Assassination of Caesar, 44
+		- Second Triumvirate – Mark Antony, Marcus Aemilius Lepidus, and Gaius Julius Caesar Octavianus, 42–36
+		- Octavian defeats Antony, 31
+		- Conquest of Egypt, 30
+- Empire, 30 BCE – 476 CE
+	- Augustus, 30 BCE – 14 CE
+		- Division of provinces and given name Augustus, 27 BCE
+		- Tribunal power for life, 23 BCE
+		- Consular power, 19 BCE
+	- Early imperial age, 14–193
+		- Period of relative stability
+		- Julian-Claudian, 14–68
+		- Year of four emperors, 69
+		- Flavian, 69–96
+		- Succession through adoption, 96–161
+		- Marcus Aurelius & Commodus, 161–193
+	- Crisis of the 3rd century, 193–284
+		- Severi, 193–235
+		- Soldier emperors, 235–284
+	- Late empire, 284–476
+		- Revival, 284–337
+			- Diocletian, 284–305
+			- Constantine, 306–337
+				- Building Constantinople, 324–330
